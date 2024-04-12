@@ -10,8 +10,8 @@ Este repositório é dedicado a armazenar e documentar os artefatos gerados dura
 
 Os resultados dos trabalhos podem ser encontrados nos seguintes repositórios:
 
-- [Coleman4HCS](https://github.com/brunaMF/coleman4hcs): Um estudo detalhado que **não aplicou as heurísticas de Coleman** no contexto de sistemas de controle de saúde.
-- [MyRobotLab](https://github.com/brunaMF/myrobotlab): Implementação e testes de um laboratório robótico virtual, **com testes gerados pelo EvoSuite** para otimizar o processo de desenvolvimento.
+- [Coleman4HCS](https://github.com/brunaMF/coleman4hcs) **Aplicação da heurísticas de Coleman**.
+- [MyRobotLab](https://github.com/brunaMF/myrobotlab): **Geração de testes pelo EvoSuite**.
 
 Para mais informações sobre cada trabalho, visite os repositórios correspondentes.
 
